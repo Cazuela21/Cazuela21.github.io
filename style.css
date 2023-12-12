@@ -42,6 +42,14 @@ body {
             text-align: center;
             padding: 20px;
         }
+        #app-details ul {
+            list-style-type: none; 
+            padding: 0;
+        }
+
+        #app-details ul li {
+            padding: 10px 0; 
+        }
         #platform {
             display: block;
             width: 60;
