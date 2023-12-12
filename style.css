@@ -27,7 +27,7 @@ body {
         }
         #download-link {
             display: block;
-            width: 300px;
+            width: 60;
             height: 50px;
             margin: 20px auto;
             background: #4a148c; 
